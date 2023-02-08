@@ -1,0 +1,16 @@
+body{
+    background: radial-gradient(circle, rgb(63, 126, 251) 0%, rgba(252,70,107,0.7904411764705882) 64%);
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+img{
+    margin-top:10%;
+    width: 600px;
+    height: 400px;
+    border-radius: 30px;
+    border: 20px solid darkslateblue ;
+
+}
